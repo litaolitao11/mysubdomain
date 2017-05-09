@@ -51,9 +51,3 @@ First you need to install [dnspython](http://www.dnspython.org/kits/1.12.0/) to 
 	                        Output file name. default is {target}.txt
 
 
-## Screenshot ##
-![screenshot](screenshot.png)
-
-Output file could be like: [https://github.com/lijiejie/subDomainsBrute/blob/master/dict/sample_youku.com_full.txt](https://github.com/lijiejie/subDomainsBrute/blob/master/dict/sample_youku.com_full.txt)
-
-LiJieJie my[at]lijiejie.com ([Blog](http://www.lijiejie.com))
